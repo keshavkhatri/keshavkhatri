@@ -1,5 +1,11 @@
 ### Hi there 👋
+Welcome! I'm Keshav Khatri, a tech enthusiast passionate about coding and collaboration. Explore my repos and let's innovate together! 🚀
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <!--
 **keshavkhatri/keshavkhatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
