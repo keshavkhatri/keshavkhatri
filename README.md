@@ -7,6 +7,10 @@ Welcome! I'm Keshav Khatri, a tech enthusiast passionate about coding and collab
   </a>
 </p>
 
+## 💡 A Quote:
+
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 [![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshavkhatri)](https://github.com/keshavkhatri/github-readme-stats)
 <!--
 **keshavkhatri/keshavkhatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
