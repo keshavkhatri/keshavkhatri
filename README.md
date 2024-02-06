@@ -6,6 +6,8 @@ Welcome! I'm Keshav Khatri, a tech enthusiast passionate about coding and collab
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,nodejs,git" />
   </a>
 </p>
+
+[![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshavkhatri)](https://github.com/keshavkhatri/github-readme-stats)
 <!--
 **keshavkhatri/keshavkhatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
